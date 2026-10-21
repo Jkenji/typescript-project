@@ -1,0 +1,14 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente / Segredos
+.env
+.env.local
+
+# Pasta de build do TypeScript (compilação)
+dist/
+build/
+
+# Logs e arquivos do sistema
+*.log
+.DS_Store
